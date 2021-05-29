@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "id": "0a0a00b2fbe89a47",
+      "fileName": "0a0a00b2fbe89a47.jpg",
+      "coordinates": {
+        "x": 123,
+        "y": 123
+      }
+    },
+    {
+      "id": "0a0a7e6f66eb3910",
+      "fileName": "0a0a7e6f66eb3910.jpg"
+    },
+    {
+      "id": "0a0a8ed8e0fc75cc",
+      "fileName": "0a0a8ed8e0fc75cc.jpg"
+    },
+    {
+      "id": "0a0a9aa6b11175e8",
+      "fileName": "0a0a9aa6b11175e8.jpg"
+    }
+  ]
+}
