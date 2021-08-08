@@ -22,6 +22,8 @@ const port = process.env.PORT; // default port to listen
 
 const manager = new Manager(process.env.IMAGE_FOLDER, process.env.DB_LOC);
 
+app.use("/", express.static("./frontend"));
+
 app.get("/annotation", (_req, res) => {
   try {
     const img = manager.getImageForAnnotation();
