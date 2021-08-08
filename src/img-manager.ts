@@ -18,8 +18,8 @@ interface ImageManager {
   db: low.LowdbSync<Schema>;
 }
 class ImageManager {
-  constructor(imgLocation: string, dbLocation: string) {
-    this.imgPath = imgLocation;
+  constructor(imgPath: string, dbLocation: string) {
+    this.imgPath = imgPath;
     const dbPath = dbLocation;
     console.log(`db path: ${dbPath}`);
     const adapter = new FileSync<Schema>(dbPath);
