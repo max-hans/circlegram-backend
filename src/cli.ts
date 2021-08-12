@@ -6,7 +6,7 @@ import dotenv from "dotenv";
 
 import { Image } from "./types";
 import Manager from "./img-manager";
-
+import { join } from "path";
 dotenv.config();
 
 if (!(process.env.IMAGE_FOLDER && process.env.DB_LOC)) {
@@ -14,17 +14,17 @@ if (!(process.env.IMAGE_FOLDER && process.env.DB_LOC)) {
 }
 
 const app = express();
-app.use(cors());
 app.use(express.json());
-app.use("/images", express.static(process.env.IMAGE_FOLDER));
+app.use("/api/images", express.static(process.env.IMAGE_FOLDER));
 
 const port = process.env.PORT; // default port to listen
 
 const manager = new Manager(process.env.IMAGE_FOLDER, process.env.DB_LOC);
 
-app.use("/", express.static("./frontend"));
+/* app.use("/", express.static("frontend")); */
+app.use(cors());
 
-app.get("/annotation", (_req, res) => {
+app.get("/api/annotation", (_req, res) => {
   try {
     const img = manager.getImageForAnnotation();
     console.log(`getting next annotation img: ${img.id}`);
@@ -34,7 +34,7 @@ app.get("/annotation", (_req, res) => {
   }
 });
 
-app.get("/final", (_req, res) => {
+app.get("/api/final", (_req, res) => {
   try {
     const img = manager.getRandomAnnotatedImage();
     console.log(`getting random img: ${img.id}`);
@@ -44,7 +44,7 @@ app.get("/final", (_req, res) => {
   }
 });
 
-app.post("/update", (req, res) => {
+app.post("/api/update", (req, res) => {
   const data = req.body as Image;
   console.log(data);
   if (data.coordinates) {
@@ -54,6 +54,13 @@ app.post("/update", (req, res) => {
     res.statusCode = 400;
     res.send("incorrect or no coordinate values provided!");
   }
+});
+
+app.use("/", express.static(join(__dirname, "../frontend")));
+app.get("*", function (_req, res) {
+  res.sendFile("index.html", {
+    root: join(__dirname, "../frontend/"),
+  });
 });
 
 const start = async () => {
