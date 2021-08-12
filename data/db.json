@@ -2266,423 +2266,843 @@
     },
     {
       "id": "00aefd65a9962799",
-      "fileName": "00aefd65a9962799.jpg"
+      "fileName": "00aefd65a9962799.jpg",
+      "coordinates": {
+        "x": 0.49899396378269617,
+        "y": 0.395
+      }
     },
     {
       "id": "00af217a66b8d5c0",
-      "fileName": "00af217a66b8d5c0.jpg"
+      "fileName": "00af217a66b8d5c0.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00af24672e7d3ff5",
-      "fileName": "00af24672e7d3ff5.jpg"
+      "fileName": "00af24672e7d3ff5.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00af2faf31786f05",
-      "fileName": "00af2faf31786f05.jpg"
+      "fileName": "00af2faf31786f05.jpg",
+      "coordinates": {
+        "x": 0.4492753623188406,
+        "y": 0.2525
+      }
     },
     {
       "id": "00af45c1dd0a9023",
-      "fileName": "00af45c1dd0a9023.jpg"
+      "fileName": "00af45c1dd0a9023.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00af55fbc2a76e47",
-      "fileName": "00af55fbc2a76e47.jpg"
+      "fileName": "00af55fbc2a76e47.jpg",
+      "coordinates": {
+        "x": 0.49014778325123154,
+        "y": 0.56
+      }
     },
     {
       "id": "00af75bbb0a0fdc2",
-      "fileName": "00af75bbb0a0fdc2.jpg"
+      "fileName": "00af75bbb0a0fdc2.jpg",
+      "coordinates": {
+        "x": 0.7622377622377622,
+        "y": 0.485
+      }
     },
     {
       "id": "00afbfb5eefd3fd2",
-      "fileName": "00afbfb5eefd3fd2.jpg"
+      "fileName": "00afbfb5eefd3fd2.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00afd9bb60324de7",
-      "fileName": "00afd9bb60324de7.jpg"
+      "fileName": "00afd9bb60324de7.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00afe7db4069f05d",
-      "fileName": "00afe7db4069f05d.jpg"
+      "fileName": "00afe7db4069f05d.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00aff39f5b46a575",
-      "fileName": "00aff39f5b46a575.jpg"
+      "fileName": "00aff39f5b46a575.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b00c4a79a1d5f8",
-      "fileName": "00b00c4a79a1d5f8.jpg"
+      "fileName": "00b00c4a79a1d5f8.jpg",
+      "coordinates": {
+        "x": 0.6378986866791745,
+        "y": 0.6825
+      }
     },
     {
       "id": "00b01bf2acd91821",
-      "fileName": "00b01bf2acd91821.jpg"
+      "fileName": "00b01bf2acd91821.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b060151e2880b7",
-      "fileName": "00b060151e2880b7.jpg"
+      "fileName": "00b060151e2880b7.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b08246617b4d47",
-      "fileName": "00b08246617b4d47.jpg"
+      "fileName": "00b08246617b4d47.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b0d51471b1f237",
-      "fileName": "00b0d51471b1f237.jpg"
+      "fileName": "00b0d51471b1f237.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b0e12f37878107",
-      "fileName": "00b0e12f37878107.jpg"
+      "fileName": "00b0e12f37878107.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b0f0cc1378603c",
-      "fileName": "00b0f0cc1378603c.jpg"
+      "fileName": "00b0f0cc1378603c.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b10c26f2a2af04",
-      "fileName": "00b10c26f2a2af04.jpg"
+      "fileName": "00b10c26f2a2af04.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b111f4fc0f9157",
-      "fileName": "00b111f4fc0f9157.jpg"
+      "fileName": "00b111f4fc0f9157.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b12b1d815fac40",
-      "fileName": "00b12b1d815fac40.jpg"
+      "fileName": "00b12b1d815fac40.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b12d540e103256",
-      "fileName": "00b12d540e103256.jpg"
+      "fileName": "00b12d540e103256.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b136c9d52c4ee1",
-      "fileName": "00b136c9d52c4ee1.jpg"
+      "fileName": "00b136c9d52c4ee1.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b17116c2593d54",
-      "fileName": "00b17116c2593d54.jpg"
+      "fileName": "00b17116c2593d54.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b175662e4d9e3d",
-      "fileName": "00b175662e4d9e3d.jpg"
+      "fileName": "00b175662e4d9e3d.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b18f8e129814cd",
-      "fileName": "00b18f8e129814cd.jpg"
+      "fileName": "00b18f8e129814cd.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1949eeee3f9a8",
-      "fileName": "00b1949eeee3f9a8.jpg"
+      "fileName": "00b1949eeee3f9a8.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b198b5258536c0",
-      "fileName": "00b198b5258536c0.jpg"
+      "fileName": "00b198b5258536c0.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1a3014b6d62a1",
-      "fileName": "00b1a3014b6d62a1.jpg"
+      "fileName": "00b1a3014b6d62a1.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1aabfdf50a42b",
-      "fileName": "00b1aabfdf50a42b.jpg"
+      "fileName": "00b1aabfdf50a42b.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1c4157306ef6f",
-      "fileName": "00b1c4157306ef6f.jpg"
+      "fileName": "00b1c4157306ef6f.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1cfc0f0be9994",
-      "fileName": "00b1cfc0f0be9994.jpg"
+      "fileName": "00b1cfc0f0be9994.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b1f61a9a3007d1",
-      "fileName": "00b1f61a9a3007d1.jpg"
+      "fileName": "00b1f61a9a3007d1.jpg",
+      "coordinates": {
+        "x": 0.5688405797101449,
+        "y": 0.7075
+      }
     },
     {
       "id": "00b20f3944709030",
-      "fileName": "00b20f3944709030.jpg"
+      "fileName": "00b20f3944709030.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b21814b93ce5df",
-      "fileName": "00b21814b93ce5df.jpg"
+      "fileName": "00b21814b93ce5df.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b28ee933b35b35",
-      "fileName": "00b28ee933b35b35.jpg"
+      "fileName": "00b28ee933b35b35.jpg",
+      "coordinates": {
+        "x": 0.6697936210131332,
+        "y": 0.7975
+      }
     },
     {
       "id": "00b2947522029cd2",
-      "fileName": "00b2947522029cd2.jpg"
+      "fileName": "00b2947522029cd2.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b2aeae698b0efc",
-      "fileName": "00b2aeae698b0efc.jpg"
+      "fileName": "00b2aeae698b0efc.jpg",
+      "coordinates": {
+        "x": 0.6842105263157895,
+        "y": 0.595
+      }
     },
     {
       "id": "00b2b2088f3f08ad",
-      "fileName": "00b2b2088f3f08ad.jpg"
+      "fileName": "00b2b2088f3f08ad.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b2e8d3526ac1a0",
-      "fileName": "00b2e8d3526ac1a0.jpg"
+      "fileName": "00b2e8d3526ac1a0.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b2f5731bd230c8",
-      "fileName": "00b2f5731bd230c8.jpg"
+      "fileName": "00b2f5731bd230c8.jpg",
+      "coordinates": {
+        "x": 0.34962406015037595,
+        "y": 0.2375
+      }
     },
     {
       "id": "00b319d0ed223f96",
-      "fileName": "00b319d0ed223f96.jpg"
+      "fileName": "00b319d0ed223f96.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b31a89df08736c",
-      "fileName": "00b31a89df08736c.jpg"
+      "fileName": "00b31a89df08736c.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b32957604fd524",
-      "fileName": "00b32957604fd524.jpg"
+      "fileName": "00b32957604fd524.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b3368eda0695cc",
-      "fileName": "00b3368eda0695cc.jpg"
+      "fileName": "00b3368eda0695cc.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b34e0207d8c669",
-      "fileName": "00b34e0207d8c669.jpg"
+      "fileName": "00b34e0207d8c669.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b36008b322a1f6",
-      "fileName": "00b36008b322a1f6.jpg"
+      "fileName": "00b36008b322a1f6.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b38c213539b6c9",
-      "fileName": "00b38c213539b6c9.jpg"
+      "fileName": "00b38c213539b6c9.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b39d10735575b0",
-      "fileName": "00b39d10735575b0.jpg"
+      "fileName": "00b39d10735575b0.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b3a271e2dc794e",
-      "fileName": "00b3a271e2dc794e.jpg"
+      "fileName": "00b3a271e2dc794e.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b3ca4fe59ae59a",
-      "fileName": "00b3ca4fe59ae59a.jpg"
+      "fileName": "00b3ca4fe59ae59a.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b3e74d5ad0f60f",
-      "fileName": "00b3e74d5ad0f60f.jpg"
+      "fileName": "00b3e74d5ad0f60f.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b4071412fb4d67",
-      "fileName": "00b4071412fb4d67.jpg"
+      "fileName": "00b4071412fb4d67.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b44f811345ea99",
-      "fileName": "00b44f811345ea99.jpg"
+      "fileName": "00b44f811345ea99.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b460fb27f1cd71",
-      "fileName": "00b460fb27f1cd71.jpg"
+      "fileName": "00b460fb27f1cd71.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b47699cc205adf",
-      "fileName": "00b47699cc205adf.jpg"
+      "fileName": "00b47699cc205adf.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b4f39488a60253",
-      "fileName": "00b4f39488a60253.jpg"
+      "fileName": "00b4f39488a60253.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b5249dbdb3f36e",
-      "fileName": "00b5249dbdb3f36e.jpg"
+      "fileName": "00b5249dbdb3f36e.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b52d752598c7a7",
-      "fileName": "00b52d752598c7a7.jpg"
+      "fileName": "00b52d752598c7a7.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b532bb0bdf580a",
-      "fileName": "00b532bb0bdf580a.jpg"
+      "fileName": "00b532bb0bdf580a.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b5cee937f6518d",
-      "fileName": "00b5cee937f6518d.jpg"
+      "fileName": "00b5cee937f6518d.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b5d5093a9ec663",
-      "fileName": "00b5d5093a9ec663.jpg"
+      "fileName": "00b5d5093a9ec663.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b6024adaf3dc8a",
-      "fileName": "00b6024adaf3dc8a.jpg"
+      "fileName": "00b6024adaf3dc8a.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b60d6a031a6afc",
-      "fileName": "00b60d6a031a6afc.jpg"
+      "fileName": "00b60d6a031a6afc.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b63d905e348f33",
-      "fileName": "00b63d905e348f33.jpg"
+      "fileName": "00b63d905e348f33.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b65d94041befa6",
-      "fileName": "00b65d94041befa6.jpg"
+      "fileName": "00b65d94041befa6.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b67d020fdf2391",
-      "fileName": "00b67d020fdf2391.jpg"
+      "fileName": "00b67d020fdf2391.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b68dfe479976ec",
-      "fileName": "00b68dfe479976ec.jpg"
+      "fileName": "00b68dfe479976ec.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b6a955baea31e7",
-      "fileName": "00b6a955baea31e7.jpg"
+      "fileName": "00b6a955baea31e7.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b6acacfb3358fd",
-      "fileName": "00b6acacfb3358fd.jpg"
+      "fileName": "00b6acacfb3358fd.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b6c796919ea125",
-      "fileName": "00b6c796919ea125.jpg"
+      "fileName": "00b6c796919ea125.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b6d43aa9e4337e",
-      "fileName": "00b6d43aa9e4337e.jpg"
+      "fileName": "00b6d43aa9e4337e.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7016c87625c64",
-      "fileName": "00b7016c87625c64.jpg"
+      "fileName": "00b7016c87625c64.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b733cdd80ef535",
-      "fileName": "00b733cdd80ef535.jpg"
+      "fileName": "00b733cdd80ef535.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b74c785d8c7f60",
-      "fileName": "00b74c785d8c7f60.jpg"
+      "fileName": "00b74c785d8c7f60.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7a8935d5fd6b6",
-      "fileName": "00b7a8935d5fd6b6.jpg"
+      "fileName": "00b7a8935d5fd6b6.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7af8277840cb9",
-      "fileName": "00b7af8277840cb9.jpg"
+      "fileName": "00b7af8277840cb9.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7c7c3c97a8ea0",
-      "fileName": "00b7c7c3c97a8ea0.jpg"
+      "fileName": "00b7c7c3c97a8ea0.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7d9c7e552e3d1",
-      "fileName": "00b7d9c7e552e3d1.jpg"
+      "fileName": "00b7d9c7e552e3d1.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7f13d430bf316",
-      "fileName": "00b7f13d430bf316.jpg"
+      "fileName": "00b7f13d430bf316.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7fadeb2dc9127",
-      "fileName": "00b7fadeb2dc9127.jpg"
+      "fileName": "00b7fadeb2dc9127.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b7fe6a380278d8",
-      "fileName": "00b7fe6a380278d8.jpg"
+      "fileName": "00b7fe6a380278d8.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b80237132c1513",
-      "fileName": "00b80237132c1513.jpg"
+      "fileName": "00b80237132c1513.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b81790fb887052",
-      "fileName": "00b81790fb887052.jpg"
+      "fileName": "00b81790fb887052.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b82de56912206e",
-      "fileName": "00b82de56912206e.jpg"
+      "fileName": "00b82de56912206e.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b859520b3c3153",
-      "fileName": "00b859520b3c3153.jpg"
+      "fileName": "00b859520b3c3153.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b8a5f8b5f86e43",
-      "fileName": "00b8a5f8b5f86e43.jpg"
+      "fileName": "00b8a5f8b5f86e43.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b8c7642d98fedf",
-      "fileName": "00b8c7642d98fedf.jpg"
+      "fileName": "00b8c7642d98fedf.jpg",
+      "coordinates": {
+        "x": 0.30333333333333334,
+        "y": 0.615
+      }
     },
     {
       "id": "00b8d69f9063c76b",
-      "fileName": "00b8d69f9063c76b.jpg"
+      "fileName": "00b8d69f9063c76b.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b8f64154201e6b",
-      "fileName": "00b8f64154201e6b.jpg"
+      "fileName": "00b8f64154201e6b.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b8f86ac43840fd",
-      "fileName": "00b8f86ac43840fd.jpg"
+      "fileName": "00b8f86ac43840fd.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b91dd5eff57cf5",
-      "fileName": "00b91dd5eff57cf5.jpg"
+      "fileName": "00b91dd5eff57cf5.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b93492b4e71619",
-      "fileName": "00b93492b4e71619.jpg"
+      "fileName": "00b93492b4e71619.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b95527ff06762f",
-      "fileName": "00b95527ff06762f.jpg"
+      "fileName": "00b95527ff06762f.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b9679658401178",
-      "fileName": "00b9679658401178.jpg"
+      "fileName": "00b9679658401178.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b968bc89016b75",
-      "fileName": "00b968bc89016b75.jpg"
+      "fileName": "00b968bc89016b75.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b97d2462e8f5f6",
-      "fileName": "00b97d2462e8f5f6.jpg"
+      "fileName": "00b97d2462e8f5f6.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b999f11df66b28",
-      "fileName": "00b999f11df66b28.jpg"
+      "fileName": "00b999f11df66b28.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b9ace2e1b06adf",
-      "fileName": "00b9ace2e1b06adf.jpg"
+      "fileName": "00b9ace2e1b06adf.jpg",
+      "coordinates": {
+        "x": 0.33,
+        "y": 0.215
+      }
     },
     {
       "id": "00b9bef0809cc3c3",
-      "fileName": "00b9bef0809cc3c3.jpg"
+      "fileName": "00b9bef0809cc3c3.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00b9e2f30a12e4f9",
-      "fileName": "00b9e2f30a12e4f9.jpg"
+      "fileName": "00b9e2f30a12e4f9.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00ba3a61c45d0413",
-      "fileName": "00ba3a61c45d0413.jpg"
+      "fileName": "00ba3a61c45d0413.jpg",
+      "coordinates": {
+        "x": 0.5634920634920635,
+        "y": 0.6625
+      }
     },
     {
       "id": "00ba3bcc5bfbf983",
-      "fileName": "00ba3bcc5bfbf983.jpg"
+      "fileName": "00ba3bcc5bfbf983.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00ba7eec365dfb63",
-      "fileName": "00ba7eec365dfb63.jpg"
+      "fileName": "00ba7eec365dfb63.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00ba848d342c14b7",
-      "fileName": "00ba848d342c14b7.jpg"
+      "fileName": "00ba848d342c14b7.jpg",
+      "coordinates": {
+        "x": -1,
+        "y": -1
+      }
     },
     {
       "id": "00bae9d19562bde4",
